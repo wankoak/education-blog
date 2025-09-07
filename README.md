@@ -1,15 +1,15 @@
-## Coding concepts
+## Coding Concepts
 
-A blog website designed to provide ideas and resources for those who ar just getting started on their coding journey!
+A blog website designed to provide ideas and resources for those who are just getting started on their coding journey!
 
-## install
+## Install
 
 You need Node to build this site. In the root run:
 ```
 npm install
 ```
 
-## build
+## Build
 ```
 npm run build
 ```
